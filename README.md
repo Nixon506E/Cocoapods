@@ -1,1 +1,1 @@
-“# folio3-specs”
+# Nixon506E-Cocoapods-specs
